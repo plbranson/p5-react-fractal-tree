@@ -30,8 +30,10 @@
   "homepage": "https://github.com/plbranson/p5-react-fractal-tree#readme",
   "dependencies": {
     "@babel/runtime": "^7.22.6",
+    "p5": "^1.7.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-p5": "^1.3.35"
   },
   "devDependencies": {
     "@babel/core": "^7.22.9",
